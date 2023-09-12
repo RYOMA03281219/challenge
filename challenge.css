@@ -42,6 +42,13 @@
 
 .footer {
   width: 100%;
-  height: 60PX;
+  height: auto;
   background-color: #EC715F;
+}
+
+.center {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
