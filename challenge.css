@@ -59,12 +59,12 @@
 }
 
 
-
 .main2 {
   width: 100%;
   height: auto;
   background-color: #FFF;
 }
+
 
 .main3 {
   width: 100%;
@@ -72,10 +72,10 @@
   background-color: #ECEFF1;
 }
 
+
 .main3-box{
   
 }
-
 
 .main3-box:nth-child(1) {
   background-image: url(img/my-icon.png);
